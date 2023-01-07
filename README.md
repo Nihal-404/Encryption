@@ -1,4 +1,4 @@
-# Encryption
+# Tinary
 
 ### Hello there, 
 This is just a self project I did. I just created kind of new type of encryption method for no reason. This method can encrypt any type of text input you give from your keyboard. And also can decrypt them into text. I don't actually know what to call it. So, for now I am calling it 'Tinary' .
